@@ -1,0 +1,8 @@
+C:\Source\Demo\DemoRabbitMQ\Producer\bin\Debug\Producer.exe.config
+C:\Source\Demo\DemoRabbitMQ\Producer\bin\Debug\Producer.exe
+C:\Source\Demo\DemoRabbitMQ\Producer\bin\Debug\Producer.pdb
+C:\Source\Demo\DemoRabbitMQ\Producer\bin\Debug\RabbitMQ.Client.dll
+C:\Source\Demo\DemoRabbitMQ\Producer\bin\Debug\RabbitMQ.Client.xml
+C:\Source\Demo\DemoRabbitMQ\Producer\obj\Debug\Producer.csprojResolveAssemblyReference.cache
+C:\Source\Demo\DemoRabbitMQ\Producer\obj\Debug\Producer.exe
+C:\Source\Demo\DemoRabbitMQ\Producer\obj\Debug\Producer.pdb
