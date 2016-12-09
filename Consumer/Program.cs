@@ -25,9 +25,11 @@ namespace Consumer
                     var body = ea.Body;
                     var message = Encoding.UTF8.GetString(body);
                     Console.WriteLine(" [x] Received {0}", message);
+
+                    channel.BasicAck(deliveryTag: ea.DeliveryTag, multiple: false);
                 };
                 channel.BasicConsume(queue: "hello",
-                                     noAck: true,
+                                     noAck: false,
                                      consumer: consumer);
 
                 Console.WriteLine(" Press [enter] to exit.");
